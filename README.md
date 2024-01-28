@@ -23,7 +23,7 @@ rgen ulid [-n count]
 ```
 
 ## Options:
-* `-n count``: Specifies the number of values to generate. Default is 1.
+* `-n count`: Specifies the number of values to generate. Default is 1.
 
 ## Examples:
 
